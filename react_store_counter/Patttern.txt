@@ -1,0 +1,22 @@
+PART I
+------
+First Component               : 26'17"
+Embedding Elements            : 31'40"
+Embedding Expressions         : 35'58"
+Setting Attributes            : 40'50"
+Rendering Classes Dynamically : 46'37"
+Rendering List                : 51'
+Conditionnal Rendering        : 55'
+Handling Events               : 1H 01'07"
+Binding Event Handlers        : 1H 04'
+Updating The State            : 1H 08'38"
+What Happens When State CHange: 1H 10'53"
+
+Sumary                        : 1h 15:30"
+
+
+
+PART II  
+-------------
+
+Composing Components          :1H17'37"
